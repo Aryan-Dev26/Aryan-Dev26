@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**Aryan-Dev26/Aryan-Dev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS (future) student aspiring to specialize in **Computer Science**  
+💻 Interests: Competitive Programming | Blockchain | AI | Systems  
+🚀 Currently preparing for **GATE CSE 2026** and building projects  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aryansahu2891/) | [Email](aryan.cse26.com)  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: C++, Python, Solidity, C#, Javascript
+- Tools: Git, Linux, Docker  
+- Interests: Algorithms, Payment Channel Networks, Game Dev (Unity, Blender)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Dev26&show_icons=true&theme=radical)
+
+## 🚀 Current Focus
+- Improving problem-solving (Codeforces, CodeChef)
+- Working on research-level projects
