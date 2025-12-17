@@ -6,6 +6,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Dev26&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Dev26&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Dev26&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🚀 Live Projects
 
 **[TeamFlow](https://team-flow-alpha.vercel.app/)** - Real-time collaborative workspace  
@@ -43,8 +57,17 @@
 
 📧 aryan.cse26@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/aryansahu2891/)  
+🌐 [Portfolio](https://aryan-dev26.github.io/Portfolio/)  
 💻 [GitHub](https://github.com/Aryan-Dev26)  
 📍 Amravati, Maharashtra, India
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Dev26&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
